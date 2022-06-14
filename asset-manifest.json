@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/viewport-grid-react-app/static/css/main.c2650d7c.css",
+    "main.js": "/viewport-grid-react-app/static/js/main.d9658b6e.js",
+    "index.html": "/viewport-grid-react-app/index.html",
+    "main.c2650d7c.css.map": "/viewport-grid-react-app/static/css/main.c2650d7c.css.map",
+    "main.d9658b6e.js.map": "/viewport-grid-react-app/static/js/main.d9658b6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2650d7c.css",
+    "static/js/main.d9658b6e.js"
+  ]
+}
