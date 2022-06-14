@@ -1,4 +1,5 @@
 {
+  "homepage": "http://daria-dudka.github.io/viewport-grid-react-app",
   "name": "viewport-grid",
   "version": "0.1.0",
   "private": true,
@@ -20,6 +21,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -42,5 +45,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
